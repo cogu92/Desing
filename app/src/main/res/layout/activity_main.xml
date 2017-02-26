@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="21dp"
-        android:layout_below="@+id/gridLayout2"
+        android:layout_below="@+id/grid_contetn_head"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true">
 
@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#222299"
-            android:id="@+id/crol_content_data">
+            android:id="@+id/scrol_content_data">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -131,7 +131,7 @@
         android:background="#222299"
         android:layout_height="wrap_content"
 android:columnCount="3"
-        android:id="@+id/gridLayout2"
+        android:id="@+id/grid_contetn_head"
         android:layout_alignParentTop="true"
         android:layout_marginEnd="15dp"
         android:layout_marginStart="15dp">
